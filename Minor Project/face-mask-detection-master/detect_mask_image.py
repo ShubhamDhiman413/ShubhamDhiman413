@@ -1,7 +1,5 @@
 # USAGE
 # python detect_mask_image.py --image examples/example_01.png
-#Created by S. Jahnavi Prasad
-#(https://github.com/jahnavi-prasad)
 # import the necessary packages
 from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
 from tensorflow.keras.preprocessing.image import img_to_array
